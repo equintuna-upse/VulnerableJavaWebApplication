@@ -17,9 +17,18 @@
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.1.3",
         "cells": []
+      },
+      {
+        "id": 2,
+        "title": "Nuevo diagrama CIA",
+        "diagramType": "CIA",
+        "placeholder": "Descripción de Nuevo diagrama CIA",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "version": "2.1.3",
+        "cells": []
       }
     ],
-    "diagramTop": 2,
+    "diagramTop": 3,
     "reviewer": "",
     "threatTop": 0
   }
